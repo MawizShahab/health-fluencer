@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Roboto Mono";
+    src: url(./fonts-outfit/Roboto_Mono/RobotoMono-VariableFont_wght.ttf)
+      format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Satoshi";
+    src: url(./font-outfit/Satoshi_Complete/Fonts/OTF/Satoshi-Regular.otf)
+      format("opentype");
+  }
+  
+  @font-face {
+    font-family: "Poppins";
+    src: url(./fonts-outfit/Poppins/Poppins-Bold.ttf) format("truetype");
+  }
+  
